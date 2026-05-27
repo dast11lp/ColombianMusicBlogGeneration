@@ -1,4 +1,4 @@
-# Colombian Music Blog Generation 🎶🇨🇴
+# Colombian Music Blog Generation 
 
 ## Descripción del Proyecto
 *Colombian Music Blog Generation* es un sitio web tipo blog enfocado en difundir y dar a conocer la riqueza de la música regional colombiana. El proyecto busca ofrecer un espacio interactivo donde los usuarios puedan explorar géneros musicales autóctonos, aprender sobre su historia y acceder a contenido multimedia relacionado.
@@ -23,7 +23,7 @@ Crear un sitio web de música regional colombiana que permita compartir informac
 ---
 
 ## Posibles Secciones del Sitio
-### 🏠 Inicio
+### Inicio
 Página principal con introducción al propósito del blog y presentación de la música colombiana.
 
 ### 🎼 Géneros Musicales
@@ -34,7 +34,7 @@ Información sobre géneros como:
 - Joropo
 - Currulao
 
-### 🎥 Videos y Artistas
+###  Videos y Artistas
 Sección dedicada a videos musicales de YouTube y artistas representativos de Colombia.
 
 ---
@@ -59,9 +59,9 @@ Sección dedicada a videos musicales de YouTube y artistas representativos de Co
 ---
 
 ## Estado del Proyecto
-🚧 En planificación y desarrollo.
+ En planificación y desarrollo.
 
 ---
 
 ## Fecha de Entrega
-📅 *15 de junio de 2026*
+*15 de junio de 2026*
